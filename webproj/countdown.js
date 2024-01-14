@@ -1,4 +1,4 @@
- let minutesTarget = 2;  // Change the target minutes as needed
+ let minutesTarget = 1;  // Change the target minutes as needed
   let hoursTarget = 1;    // Change the target hours as needed
   let secondsTarget = 30;  // Change the target seconds as needed
 
