@@ -11,14 +11,14 @@ void sort(int array[],int size){
     }
 }
 void printarr(int array[],int size){
-    for(int i=0; i<size; i++){
+    for(int i=0; i<5; i++){
         printf("%d ", array[i]);
     }
 }
 int main(){
  int   array[5];
     printf("Enter value of array ");
-    for (int i=0; i<=5; i++){
+    for (int i=0; i<5; i++){
         scanf("%d",&array[i]);
     }
   int  size=sizeof(array)/sizeof(array[0]);
